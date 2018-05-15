@@ -1,0 +1,7 @@
+MSDN_TeclasForm/bin/
+MSDN_TeclasForm/obj/
+.vs/
+MSDN_TeclasForm/.vs/
+_UpgradeReport_Files
+Backup/
+UpgradeLog.xml
